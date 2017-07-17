@@ -1,0 +1,1 @@
+A two-player game (human vs. human) of chess. Currently does not have en passante implemented and does not check to make sure the King isn't being moved into check. 
